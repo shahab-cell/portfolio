@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Muhammad Shahab",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Shahab!.  I am a software engineering student and a passionate frontend React developer with three years of coding experience. I have excellent skills in HTML, CSS, JavaScript, React, Firebase, Python, and SQL. Although I don't have extensive professional experience, I have worked on a variety of personal projects and am confident in my ability to create high-quality user interfaces and interactive web applications. As a software engineering student, I am committed to continuous learning and staying up-to-date with the latest industry trends and technologies. I am excited to continue building my skills and knowledge as a developer.",
+    "contactmessage": "Get in touch with me",
+    "email": "shahabuddin60@outlook.com",
+    "phone": "+92 3150236808",
+    "address": {
+      "street": "PIB Colony",
+      "city": "Pakistan",
+      "state": "Sindh",
+      "zip": "74800"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-shahabuddin-b99219224/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shahab_hehe/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shahab-cell",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "ILMA University",
+        "degree": "Bachelor's Degree, Software Engineering",
+        "Studying": "2nd year"
+      }
+    ],
+
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "React Development",
+        "years": "May 2023 - Present",
+        "description": ""
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "65%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "Frontend Development",
+        "level": "85%"
+      },
+      {
+        "name": "Backend Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resturant App (React JS)",
+        "category": "",
+        "image": "resturant.png",
+        "url": "https://github.com/shahab-cell/The-Resturant"
+      },
+      {
+        "title": "GPT3 (React JS)",
+        "category": "",
+        "image": "gpt3.png",
+        "url": "https://github.com/shahab-cell/gpt3_fiction"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "",
+        "image": "slack.png",
+        "url": "https://github.com/shahab-cell/slack-clone"
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "category": "",
+        "image": "gmail.png",
+        "url": "https://github.com/shahab-cell/gmail-clone"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://github.com/shahab-cell/linkedin-clone"
+      },
+      {
+        "title": "Netflix landing page clone",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://github.com/shahab-cell/Netflix-Landing-Page-Clone/tree/main"
+      },
+      {
+        "title": "Cloudy web hosting",
+        "category": "",
+        "image": "cloudy.png",
+        "url": "https://github.com/shahab-cell/cloudy-web-hosting"
+      },
+      {
+        "title": "myTunes",
+        "category": "",
+        "image": "mytunes.png",
+        "url": "https://github.com/shahab-cell/myTunes.github.io"
+      },
+      {
+        "title": "Form with sliding effect",
+        "category": "",
+        "image": "slide.png",
+        "url": "https://github.com/shahab-cell/sliding-form"
+      },
+      {
+        "title": "Fast Search App",
+        "category": "",
+        "image": "search.png",
+        "url": "https://github.com/shahab-cell/search-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Muhammad is a great freelancer! His python skill is excellent, and he is an extremely nice person to work with!",
+        "user": "Tom Matt"
+      }
+    ]
+  }
+}
